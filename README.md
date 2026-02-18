@@ -11,7 +11,7 @@ Este é meu projeto de desenvolvimento de jogo 3D em Godot. Estou criando protó
 
 ## Próximos passos
 
-https://github.com/joaogabrieloliveiralopes/dev-projeto-de-jogo/releases
+[https://github.com/joaogabrieloliveiralopes/dev-projeto-de-jogo/releases](https://github.com/joaogabrieloliveiralopes/dev-projeto-de-jogo/releases/tag/Software)
 
 * Implementar mecânicas principais do jogo
 * Criar menus e HUD interativo
