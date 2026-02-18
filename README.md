@@ -6,7 +6,6 @@ Este é meu projeto de desenvolvimento de jogo 3D em Godot. Estou criando protó
 
 1. Certifique-se de ter o **Godot 4.x** instalado.
 2. Baixe ou clone este repositório:
-   ```bash
    git clone https://github.com/joaogabrieloliveiralopes/dev-projeto-de-jogo.git
 
 
@@ -21,6 +20,7 @@ Este é meu projeto de desenvolvimento de jogo 3D em Godot. Estou criando protó
 ## Licença
 
 All Rights Reserved © 2026 João Gabriel Oliveira Lopes
+
 Todo o código e assets deste projeto são protegidos. Uso, cópia ou distribuição sem autorização é proibido.
 
 ## Contato
