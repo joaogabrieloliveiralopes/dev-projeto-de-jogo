@@ -26,5 +26,7 @@ Todo o código e assets deste projeto são protegidos. Uso, cópia ou distribui�
 ## Contato
 
 João Gabriel de Sousa Oliveira Lopes
+
 GitHub: [github.com/joaogabrieloliveiralopes](https://github.com/joaogabrieloliveiralopes)
+
 Email: [joaogabrieloliveira.dev@email.com](mailto:joaogabrieloliveira.dev@email.com)
